@@ -6,4 +6,4 @@ The code reads an .xlsx file that contains all securities contained in a benchma
 weights.
 
 *** OUTPUT ***
-
+Running the code generates two charts, a so-called <i>market</i> chart
