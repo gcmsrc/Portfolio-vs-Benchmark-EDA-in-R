@@ -6,7 +6,9 @@ The code reads an .xlsx file that contains all securities contained in a benchma
 weights.
 
 *** OUTPUT ***
-Running the code generates two charts, a so-called <b>market</b> chart and a <b>portfolio</b> chart.
+Running the code generates two charts, a so-called <b>market</b> chart and a <b>portfolio</b> chart. In this repository,
+there are two examples of charts, one is a market chart (<i>test_mkt.png</i>) and the other is a portfolio chart (<i>test_
+ptf.png</i>).
 
 The <b>market</b> chart is a representation of all the securities in the market. The x-axis represent a relative-value
 return (e.g. 1-week, 1-month, etc.). The y-axis always represents the YTD relative return. The chart is then split into
