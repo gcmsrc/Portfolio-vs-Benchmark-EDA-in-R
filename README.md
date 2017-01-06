@@ -1,4 +1,4 @@
-# Portfolio vs Benchmark (R)
+# Portfolio vs Benchmark (in R)
 This repository contains the code to perform EDA (performance and allocation) of a portfolio vs its benchmark.
 The code is in <b>R</b>.
 
