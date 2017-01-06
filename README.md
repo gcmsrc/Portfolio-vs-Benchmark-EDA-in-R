@@ -1,5 +1,6 @@
 # ptf_vs_bmk
 This repository contains the code to perform EDA (performance and allocation) of a portfolio vs its benchmark.
+The code is in <b>R</b>.
 
 *** INPUT ***
 The code reads an .xlsx file that contains all securities contained in a benchmark and its portfoli, with the corresponding
