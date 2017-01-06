@@ -1,4 +1,4 @@
-# ptf_vs_bmk
+# Portfolio vs Benchmark (R)
 This repository contains the code to perform EDA (performance and allocation) of a portfolio vs its benchmark.
 The code is in <b>R</b>.
 
