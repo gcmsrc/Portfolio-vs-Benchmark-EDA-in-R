@@ -3,7 +3,7 @@ This repository contains the code to perform EDA (performance and allocation) of
 The code is in <b>R</b>.
 
 *** INPUT ***
-The code reads an .xlsx file that contains all securities contained in a benchmark and its portfoli, with the corresponding
+The code reads an .xlsx file that contains all securities contained in a benchmark and its portfolio, with the corresponding
 weights.
 
 *** OUTPUT ***
